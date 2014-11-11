@@ -23,7 +23,7 @@ def downloadSong(url):
     best = video.getbest(preftype="mp4")
     yt = YouTube()
     yt.url = url
-    os.system('cls')
+    os.system('cls') # os.system('clear') for linux.
     print "Download URL fetched successfully!\n"
     print "1. Get the list of available streams"
     print "2. Get the highest resolution available"
