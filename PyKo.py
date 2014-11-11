@@ -9,6 +9,7 @@ import os, sys
 
 # Written by Daniel Koifman(A.K.A HeliosHype) and Alex Putilin
 # You are allowed to freely use, edit, modify and distribute this script, just make sure to give proper credit :)
+# Also, if you want to ontribute to the code, make sure to send a commit request and to PROPERLY document your changes!
 
 
 
